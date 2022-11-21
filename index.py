@@ -6,6 +6,7 @@ from discord import app_commands, Intents, Client, Interaction
 
 __version__ = "1.0.1"
 
+scamererrrr cuidado galera isso e tudo scam cuidado tem graber
 
 
 def check_me(token_test: str) -> dict:
